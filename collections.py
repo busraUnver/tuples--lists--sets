@@ -18,7 +18,6 @@ print(t[0])
 
 #you can modify list but not tuples
 l[0] = "i"
-print(l)
 
 #to add element at the end of lists
 l.append("hiiii")
